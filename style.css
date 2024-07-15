@@ -131,12 +131,12 @@ small{
     background-color: 
     #F6F6F9;
     width: 390px ;
-    height: 540px;
+    height: 550px;
     padding: 30px 30px;
     margin: 20px 0px;
 }
 .right-title{
 line-height: 22px;
-border-bottom: 2px solid #E4E4E4;
 padding: 15px 0px;
+border-bottom: 2px solid #E4E4E4;
 }
