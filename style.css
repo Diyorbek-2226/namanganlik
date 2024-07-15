@@ -105,3 +105,38 @@ width: 450px;
     background-color: #f7c974
     ;
 }
+.section-list{
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+    gap: 10px;
+}
+small{
+    color: rgb(151, 151, 151);
+}
+.right_title{
+    border: 0.5px solid red; 
+    border: none;
+}
+.section_title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.section_right{
+    display: flex;
+    gap: 20px;
+}
+.right_title{
+    background-color: 
+    #F6F6F9;
+    width: 390px ;
+    height: 540px;
+    padding: 30px 30px;
+    margin: 20px 0px;
+}
+.right-title{
+line-height: 22px;
+border-bottom: 2px solid #E4E4E4;
+padding: 15px 0px;
+}
