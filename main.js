@@ -1,9 +1,4 @@
-const back=[
-    {
-        name:'smsmkk',
-        age:22,
-    }
-]
-back.map((item)=>{
-    
-})
+document.querySelector('.menu_bar').onclick = function() {
+    const navList = document.querySelector('.logo');
+    navList.classList.toggle('active');
+}
