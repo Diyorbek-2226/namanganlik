@@ -251,3 +251,17 @@ border-bottom: 1px solid #133C82;
         margin: 10px 0px;
     }
 }
+@media (max-width: 400px) {
+    .link, .stiker, .row, .header_list {
+        display: block;
+    }
+
+    .link_item, .stiker_item, .col-4, .header-list {
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    .link_item a, .stiker_title, .card_title, .header-list h3 {
+        text-align: center;
+    }
+}
